@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\GitWorkplace\\C-Leetcode\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D263774-F9E5-4D04-8475-2C558A46F785}|LeetCode\\LeetCode.vcxproj|D:\\Study\\GitWorkplace\\C-Leetcode\\LeetCode\\leet3174.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D263774-F9E5-4D04-8475-2C558A46F785}|LeetCode\\LeetCode.vcxproj|solutionrelative:leet3174.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "leet3174.cpp",
+              "DocumentMoniker": "D:\\Study\\GitWorkplace\\C-Leetcode\\LeetCode\\leet3174.cpp",
+              "RelativeDocumentMoniker": "leet3174.cpp",
+              "ToolTip": "D:\\Study\\GitWorkplace\\C-Leetcode\\LeetCode\\leet3174.cpp",
+              "RelativeToolTip": "leet3174.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T12:33:47.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
